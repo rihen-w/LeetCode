@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/rihen-w/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/rihen-w/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/rihen-w/LeetCode/tree/master/0742-to-lower-case) |
 | [3379-score-of-a-string](https://github.com/rihen-w/LeetCode/tree/master/3379-score-of-a-string) |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rihen-w/LeetCode/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/rihen-w/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
