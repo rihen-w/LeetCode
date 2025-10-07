@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rihen-w/LeetCode/tree/master/0136-single-number) |
+| [1580-shuffle-the-array](https://github.com/rihen-w/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/rihen-w/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
 |  |
