@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/rihen-w/LeetCode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/rihen-w/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/rihen-w/LeetCode/tree/master/2383-add-two-integers) |
+| [2556-convert-the-temperature](https://github.com/rihen-w/LeetCode/tree/master/2556-convert-the-temperature) |
 ## String
 |  |
 | ------- |
